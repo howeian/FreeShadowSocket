@@ -7,3 +7,5 @@ Server Port:  9001
 Password:  fuckgfw1234
 
 Encryption Method:  aes-256-cfb
+
+VPS购买地址：https://50vz.net/aff.php?aff=719
